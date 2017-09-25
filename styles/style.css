@@ -345,10 +345,8 @@ p {
 	padding: 10px;
 }
 article {
-	width: 630px;
 	float: left;
 	padding: 10px;
-	border-right: 1px dashed #9c5959;
 }
 .fullwidth {
 	border-right: 0px dashed #9c5959;
@@ -619,7 +617,7 @@ textarea:active, textarea:focus {
 /**
  * Remake of "HTML + CSS3 Icons" by Clay Cauley
  *
- * Inspiration was taken from: 
+ * Inspiration was taken from:
  * -http://designmoo.com/5368/html-css3-icons/
  */
 a.s3d {
