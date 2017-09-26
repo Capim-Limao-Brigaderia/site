@@ -29,7 +29,7 @@ margin: 0;
 }
 /* The stage is the wrapper. The image fills 100% the height of the stage */
 .pika-stage, .pika-textnav {
-	width: 941px;
+	width: 920px;
 }
 .pika-stage {
 	position: relative;
