@@ -369,7 +369,7 @@ aside h3, .footer-widget h4 {
 	margin-bottom: 10px;
 	text-align: left;
 }
-.content-widget, .content-menu {
+.content-widget, .content-sabores {
 	margin-right: 10px;
 	margin-bottom: 50px;
 }
@@ -377,7 +377,7 @@ aside h3, .footer-widget h4 {
 	text-align: center;
 	margin-bottom: 10px;
 }
-.content-widget h1, .content-menu h1 {
+.content-widget h1, .content-sabores h1 {
 	text-align: center;
 	margin-bottom: 10px;
 }
@@ -547,13 +547,13 @@ text-align: center; /*        width:  892px; /* total computed width = 222 x 3 +
 	border-top: 1px solid #ddd;
 	padding: 10px 0;
 }
-.menu-order, .star, .menu .item {
+.sabores-order, .star, .sabores .item {
 	margin-top: 15px;
 }
-.menu p {
+.sabores p {
 	width: 420px;
 }
-.menu img {
+.sabores img {
 	margin-bottom: 20px;
 }
 .gallery img {
